@@ -63,8 +63,10 @@
 	font-size:24pt;
 	font-weight:600;
 	font-style:normal;
-	color:rgb(49, 106, 197);
+	color:rgb(53, 53, 53);
 	text-align:center;
+	width: 800px;
+    	padding-top: 40px;
 }
 .titleText {
     font-weight: 600;
